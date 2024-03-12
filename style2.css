@@ -1,0 +1,18 @@
+.container {
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  .calculator{
+    background-image: linear-gradient(to left, #62faff, #67f962, #ce65ff);
+    padding: 60vh 10vh 10vh 10vh;
+    border-radius: 1rem;
+  }
+
+  .button {
+
+  }
